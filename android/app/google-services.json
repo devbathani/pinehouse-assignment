@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "361180302377",
+    "project_id": "pinehouse-assignment-72fdb",
+    "storage_bucket": "pinehouse-assignment-72fdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361180302377:android:2ff93f0b5879486af16038",
+        "android_client_info": {
+          "package_name": "com.example.pinehouse_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361180302377-cb04a62a5qilsqvvd6nulsh16man29cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pinehouse_assignment",
+            "certificate_hash": "a432d6f7a923037a5f699e036fc59fa88576ceef"
+          }
+        },
+        {
+          "client_id": "361180302377-d18shamfj4eb1u5qmbm06kpk16sufu0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9gcSDeJqKJR1LADQ4NU8qMQkFUN8nosk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361180302377-d18shamfj4eb1u5qmbm06kpk16sufu0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
